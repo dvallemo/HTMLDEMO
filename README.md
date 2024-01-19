@@ -1,3 +1,4 @@
 # HTML content
 
 1. figure tag: figure indents a picture and separated it form other things likee text,you can add an image, a figcaption, and a embed a link to the picture
+2. the label tag: tricky thing to understand. But this tag basically just enables you to be able to click on a word and have form to be activated right next to it. A form tag is used to create an HTML form that allows users to input data and submit it to a server for processing. Forms are a crucial part of web development, enabling interactions like user authentication, data entry, and various other types of user input. For example on one of the projects there was a radio button next to a text. Without the label tag clicking on the text next to the radio button would not do anything. But once I implemented the label tag inside the input type radio, it enabled me to be able to click on the radio button even if I just clicked on the text next to it. That is the power of the label tag
